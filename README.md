@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="gitchat.jpeg"></a>
+  <img src="gitchat.jpg"></a>
 </p>
 
 欢迎提 issue,共同改进本项目！
